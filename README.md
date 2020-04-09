@@ -57,12 +57,7 @@
     "\n",
     "* combined with **downtime data**\n",
     "    1. what is the relationship between products on the line and downtime\n",
-    "    \n",
-    "  # Gendorf Project\n",
-    "  \n",
-    "  more dataviz focused and less ML\n",
-    "  \n",
-    "  It's a current project we're working on -- up to ya'lls interest level\n",
+    "\n",
     "  "
    ]
   }
