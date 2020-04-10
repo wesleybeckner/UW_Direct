@@ -54,7 +54,7 @@ I think both have validity in the job market and are useful things to learn -- I
     
   # Gendorf Project
   
-  [app-site](#http://gendorf-dev.herokuapp.com/)
+  [app-site](#http://www.gendorf-dev.herokuapp.com/)
   
   -- more dataviz focused and less ML
   
