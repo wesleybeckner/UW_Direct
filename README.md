@@ -23,13 +23,9 @@ Unfortunately we don’t have inventory carrying cost data. So we will only be m
     
 # Product Margin Dashboard
  
-  [app-site](#http://www.gendorf-dev.herokuapp.com/)
-  
-  -- more dataviz focused and less ML
-  
-  It's a current project we're working on -- up to ya'lls interest level
-<small>created by [wesley beckner](http://wesleybeckner.github.io)</small>
-
+[app-site](http://www.gendorf-dev.herokuapp.com/)
+user: gendorf
+pass: assessment
 
 This is an [product characterization dashboard](https://gendorf.herokuapp.com) demo using [Dash](https://plot.ly/products/dash/) 
 
