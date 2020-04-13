@@ -2,9 +2,9 @@
 
 # There are Two Projects Here
 
-Project 1 has more to do with data visualziation and project 2 with a litle more optimization/hardcore machine learning
+Project 1 optimization/hardcore machine learning and Project 2 has more to do with data visualziation.
 
-I think both have validity in the job market and are useful things to learn -- It just depends on what is of interest!
+I think both useful learning cases and useful business cases -- It just depends on what is of interest.
 
 # Corian Product Wheel Project 
 
