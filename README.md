@@ -2,7 +2,7 @@
 
 # There are Two Projects Here
 
-Project 1 optimization/hardcore machine learning and Project 2 has more to do with data visualziation.
+Project 1 is more optimization/hardcore machine learning focused and Project 2 has more to do with data visualziation.
 
 I think both useful learning cases and useful business cases -- It just depends on what is of interest.
 
