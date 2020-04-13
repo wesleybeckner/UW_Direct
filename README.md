@@ -22,6 +22,17 @@ Unfortunately we don’t have inventory carrying cost data. So we will only be m
 
     
 # Product Margin Dashboard
+
+## What does the dashboard do?
+
+The Gendorf Dashboard allows a production engineer to pull on key variables/levers. The idea is to onboard this as part of a site assessment
+
+Objective:  Create a datadashboard that is user friendly – visually appealing
+
+Method: Python/Plotly, PowerBI, Tableau, Excel w/  Powerview
+
+Key Output from the dashboard:  EBITDA related KPIs 
+
  
 [app-site](http://www.gendorf-dev.herokuapp.com/)
 
