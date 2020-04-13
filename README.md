@@ -6,51 +6,20 @@ Project 1 has more to do with data visualziation and project 2 with a litle more
 
 I think both have validity in the job market and are useful things to learn -- It just depends on what is of interest!
 
-# Corian Project (these are mostly just notes): 
+# Corian Product Wheel Project 
 
-## Pots of Gold
+## What does the model do?
 
-1. here's your product wheel and the loss in transition sheets from your random
-    production plan to one that is optimized. Potentially run through
-    monte carlo
-    * traveling salesman
-    
-## Hypotheses
-* we have some anomalies in the data
-    1. [unusual Next Color Code](#color)
-    
-* can we use the sequence of order numbers to isolate those for which we had failed transitions 
-  (i.e. we gave up) and determine the relationship between transition attempts and fail rate?
-    1. [fail rates](#fail)
+The Product Wheel Tool modeled in Excel Solver or Python determines for each SKU the ‘duration between campaign’ (relates to campaign size) that will give the least overall cost product wheel costs (transition + inventory carrying cost)
 
-    
+Objective:  Minimize Product Wheel Cost at SKU level within supplied constraints
 
-    
+Method: Optimize unconstrained first. Then, apply constraints (e.g. target inventory) to get a realistic solution
 
-* ### Transition Distributions
-    1. [distributions](#dist) Let's fill in the cells in the matrix
-    1. [fraction of transitions explained](#terminate)  When should we terminate a bad transition?
-    3. [sorted boxplots](#sorted)
-    2. are we learning as we do the transition more often? [median transition sheets vs number of transits](#transits)
+Key Output from the model:  How often to make a SKU i.e. duration between campaigns
 
+Unfortunately we don’t have inventory carrying cost data. So we will only be minimizing transition costs
 
-[combined data](#combinations)
-
-* if we combine with **family labels** what are the transition characteristics for (#2)
-   
-    1. inter-family transitions
-    2. intra-family transitions
-    3. inter-subfamily transitions
-    4. intra-subfamily transitions
-    5. where are we having the most operational upsets in terms of product/family/subfamily
-
-
-* if we combine with **scheduling data**
-    1. what transitions are being scheduled today and do we have transition data for them
-
-
-* combined with **downtime data**
-    1. what is the relationship between products on the line and downtime
     
 # Product Margin Dashboard
  
